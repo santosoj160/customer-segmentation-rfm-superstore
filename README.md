@@ -8,6 +8,10 @@
 
 Repositori ini berisi proyek analisis data komprehensif untuk mengelompokkan pelanggan *Superstore* menggunakan metode **RFM Analysis (Recency, Frequency, Monetary)**. Proyek ini bertujuan untuk membantu tim manajemen memahami perilaku belanja pelanggan, mengidentifikasi kelompok pelanggan paling bernilai, serta merancang strategi pemasaran berbasis data yang tepat sasaran.
 
+## Dashboard Preview
+
+![Dashboard Overview](Images/Dashboard.png)
+
 ---
 
 ##  Fitur & Tahapan Analisis
